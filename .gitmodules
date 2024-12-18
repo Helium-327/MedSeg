@@ -1,3 +1,8 @@
 [submodule "SliceMedix"]
 	path = SliceMedix
 	url = https://github.com/Helium-327/SliceMedix.git
+
+
+[submodule "VoxelMedix"]
+	path = VoxelMedix
+	url = https://github.com/Helium-327/VoxelMedix.git
