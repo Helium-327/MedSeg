@@ -1,0 +1,3 @@
+[submodule "SliceMedix"]
+	path = SliceMedix
+	url = https://github.com/Helium-327/SliceMedix.git
