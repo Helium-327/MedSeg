@@ -4,3 +4,6 @@
 
 
 
+[submodule "VoxelMedix"]
+	path = VoxelMedix
+	url = https://github.com/Helium-327/VoxelMedix.git
